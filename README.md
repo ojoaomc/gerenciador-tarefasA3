@@ -1,11 +1,11 @@
 # Sistema de tarefas
 Projeto de um gerenciador de tarefas simples.
 
-Douglas Pio Fernandes - RA: 32327315
-Eduardo Junio da Silva Oliveira - RA: 323212865
-João Paulo Miranda Cardoso - RA: 32329150
-Marlon Emanuel Silva Gonçalves – RA: 324149349
-Willian Martins Miranda – RA: 32325021
+- Douglas Pio Fernandes - RA: 32327315
+- Eduardo Junio da Silva Oliveira - RA: 323212865
+- João Paulo Miranda Cardoso - RA: 32329150
+- Marlon Emanuel Silva Gonçalves – RA: 324149349
+- Willian Martins Miranda – RA: 32325021
 
 # Sobre
 
